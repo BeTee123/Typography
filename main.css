@@ -1,6 +1,8 @@
 body{
     color:rgb(19, 15, 15);
     background: paleturquoise;
+    background-image: https://betee123.github.io/colorful-alphabet.png);
+    background-position: top center;
     margin: 2em 5em;
     display: block;
     box-shadow:12px 10px rgb(200, 242, 243), -12px -10px rgb(200, 242, 243);
