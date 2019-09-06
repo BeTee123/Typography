@@ -3,6 +3,8 @@ body{
     background: paleturquoise;
     background-image: url("colorful-alphabet.png");
     background-position: top center;
+    background-size: contain;
+    background-blend-mode: saturation;
     margin: 2em 5em;
     display: block;
     box-shadow:12px 10px rgb(200, 242, 243), -12px -10px rgb(200, 242, 243);
